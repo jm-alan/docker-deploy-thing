@@ -1,0 +1,28 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Roboto, arial, sans-serif;
+  font-weight: 300;
+}
+
+div {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+#div__content {
+  padding-top: 2vh;
+}
+
+input:focus {
+  outline: none;
+}
